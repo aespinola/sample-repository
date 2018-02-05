@@ -1,2 +1,2 @@
 # sample-repository
-repositorio curso git-angular
+Sample project GitHub repository
