@@ -1,8 +1,8 @@
 package com.company.model.business;
 /*
- * Autor: Juan Daniel Sánchez
+ * Autor: Juan Daniel SÃ¡nchez
  * Fecha: 22/11/2017
- * Descripción: 
+ * DescripciÃ³n: 
  */
 public class Articulo {
 	//Atributos
@@ -35,10 +35,5 @@ public class Articulo {
 	public void setPvp(double pvp) {
 		this.pvp = pvp;
 	}
-	
-	
-	
-	
-	
 	
 }
